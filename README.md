@@ -37,6 +37,7 @@ I'm a passionate and dedicated student pursuing a Bachelor's in Information Tech
   
 **🌍 Connect with Me:**
   * LinkedIn: www.linkedin.com/in/shakeel-ahmad-5a7044252
+  * Twitter:  https://x.com/ShakeelReh/status/1748664758549778719?s=20
 
 Let's connect and collaborate on exciting projects! 🚀
 <!---
