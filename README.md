@@ -8,6 +8,8 @@ I'm a passionate and dedicated student pursuing a Bachelor's in Information Tech
  * HTML: Crafting the structure of the web.
  * CSS: Styling things up to make them visually appealing.
  * JavaScript: Bringing interactivity and dynamism to the web.
+ * React.js
+ * Machine Learning
  * Python: My go-to language for versatile applications.
  * C++: Delving into the world of system programming and high-performance applications.
  * SQL: Managing and querying databases efficiently.
@@ -30,7 +32,10 @@ I'm a passionate and dedicated student pursuing a Bachelor's in Information Tech
     
 **👨‍💻 Projects:**
  * College Management System in c++
-   
+ * News Web App
+ * Simple Quiz Web App
+ * Quotes Generator Web App
+ * TextUtils Web App
 **📖 Hobbies:**
   Apart from coding, I'm an avid reader. I find joy in exploring diverse subjects and expanding my knowledge. When not in front of the screen, you'll likely find me on the cricket field, enjoying the strategic 
   and dynamic nature of the game.
