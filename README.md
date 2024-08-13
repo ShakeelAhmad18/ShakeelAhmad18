@@ -8,7 +8,7 @@ I'm a passionate and dedicated student pursuing a Bachelor's in Information Tech
  * HTML: Crafting the structure of the web.
  * CSS: Styling things up to make them visually appealing.
  * JavaScript: Bringing interactivity and dynamism to the web.
- * React.js
+ * Mern Stack: I developed full stack wep applications in Node.js
  * Machine Learning
  * Python: My go-to language for versatile applications.
  * C++: Delving into the world of system programming and high-performance applications.
