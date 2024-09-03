@@ -1,12 +1,12 @@
-- 👋 Hi, I’m ShakeelAhmad
+- 👋 Hi, I’m Shakeel Ahmad and I’m Mern Stack Developer.
 - 👀 I’m interested in AI and Web Development
   
   **Hi there! 👋**
 I'm a passionate and dedicated student pursuing a Bachelor's in Information Technology. My journey in the realm of technology has equipped me with a versatile skill set, and I'm always eager to learn and explore new horizons.
-
 **🚀 Skills:**
  * HTML: Crafting the structure of the web.
- * CSS: Styling things up to make them visually appealing.
+ * TailwindCSS: Styling things up to make them visually appealing.
+ * DaisyUI
  * JavaScript: Bringing interactivity and dynamism to the web.
  * Mern Stack: I developed full stack wep applications in Node.js
  * Machine Learning
@@ -32,10 +32,11 @@ I'm a passionate and dedicated student pursuing a Bachelor's in Information Tech
     
 **👨‍💻 Projects:**
  * College Management System in c++
- * News Web App
- * Simple Quiz Web App
- * Quotes Generator Web App
- * TextUtils Web App
+ * Hotel Booking System
+ * Pizza Web Application
+ * Inventory Management System
+ * Chat App Web Application
+ * And More...
 **📖 Hobbies:**
   Apart from coding, I'm an avid reader. I find joy in exploring diverse subjects and expanding my knowledge. When not in front of the screen, you'll likely find me on the cricket field, enjoying the strategic 
   and dynamic nature of the game.
@@ -43,6 +44,7 @@ I'm a passionate and dedicated student pursuing a Bachelor's in Information Tech
 **🌍 Connect with Me:**
   * LinkedIn: www.linkedin.com/in/shakeel-ahmad-5a7044252
   * Twitter:  https://x.com/ShakeelReh/status/1748664758549778719?s=20
+  * Email: shakeelsoftwaredev@gmail.com
 
 Let's connect and collaborate on exciting projects! 🚀
 <!---
