@@ -1,98 +1,113 @@
 <div align="center">
- 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Shakeel%20Ahmad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CodeWala%20%7C%20MERN%20&%20React%20Native%20Expert&descAlignY=51&descAlign=50" alt="Shakeel Ahmad Banner" />
 
-  ### 🚀 Turning Ideas into Premium Digital Products
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=CodeWala&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Shakeel%20Ahmad%20%7C%20Full%20Stack%20and%20AI%20Developer&descAlignY=51&descAlign=50" alt="CodeWala Banner" width="100%" />
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=25c2a0&center=true&vCenter=true&width=600&lines=🚀+Building+Premium+React+Native+Apps;🤖+Integrating+Artificial+Intelligence;🛒+Top+Seller+on+Codester;💻+MERN+Stack+Expert" alt="Typing SVG" />
+  </a>
+
+  <br />
+
+  <a href="https://www.codester.com/CodeWala/">
+    <img src="https://img.shields.io/badge/Codester-Visit_Shop-orange?style=for-the-badge&logo=c&logoColor=white" height="30" />
+  </a>
   <a href="https://www.linkedin.com/in/shakeel-ahmad-5a7044252">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="mailto:shakeelsoftwaredev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.codester.com/CodeWala/">
-    <img src="https://img.shields.io/badge/Codester-My%20Shop-orange?style=for-the-badge&logo=c" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
 
 </div>
 
----
-
-### 👨‍💻 About Me
-
-Hi, I'm **Shakeel Ahmad** (also known as **CodeWala**). I am a **MERN Stack** and **React Native Expo** developer based in Lahore, Pakistan. 
-
-Unlike a typical developer, I focus on building **production-ready applications** integrated with **AI** (Machine Learning) to solve real-world problems. I currently have **15+ Active Products** listed on marketplaces like Codester, ranging from Dairy Farm Management systems to AI-powered Health apps.
-
-- 🔭 **I’m currently working on:** Advanced AI booking systems & React Native CLI templates.
-- 🌱 **I’m currently learning:** Advanced System Architecture & Cross-Platform Scalability.
-- ⚡ **Fun fact:** I love cricket almost as much as I love clean code.
+<br />
 
 ---
 
-### 🛠️ Technical Arsenal
+### ⚡ **The Developer Behind the Products**
+
+> *"I don't just write code; I build **assets**. My focus is on creating high-value, production-ready applications that solve real business problems using AI and Modern Web Technologies."*
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShakeelAhmad18&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophy" />
+</div>
+
+---
+
+### 🛠️ **Tech Stack & Arsenal**
+
+<div align="center">
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,redux,tailwind,bootstrap,html,css,js,ts,python,cpp,git,github,vscode,figma,photoshop&perline=10" />
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Focus-React_Native_Expo-blue?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-OpenAI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-SaaS_Development-green?style=for-the-badge&logo=serverless&logoColor=white" />
+</div>
+
+---
+
+### 💎 **Featured Premium Products**
+*Live on Codester | Secure Source Code | Documentation Included*
 
 <div align="center">
 
-| Frontend | Backend | Mobile | AI & Tools |
-| :---: | :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) |
-| ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-
-</div>
-
----
-
-### 🏆 Premium Projects & Market Items
-*These projects are live and available for purchase. Click to view details.*
-
-#### 🌟 Top Featured Apps
-| Project Name | Tech Stack | Type | Status |
-| :--- | :--- | :--- | :--- |
-| **Complete Dairy Farm Management System** | React Native, Node.js | Business System | 🔥 **NEW** |
-| **GourmetFood - AI Multi-Restaurant** | React Native, AI | Delivery Platform | ✅ Active |
-| **PrescribePro - AI Prescription Manager** | React.js, AI | Health Tech | ✅ Active |
-| **Cleanup Services App** | PHP, MySQL | Service Platform | ✅ Active |
-
-#### 🤖 AI-Powered Mobile Solutions (Expo)
-| App Name | Features | Price Range |
-| :--- | :--- | :--- |
-| **AI Vehicle Inspector** | Image Recognition, Auto-Reporting | $170 |
-| **AI Home Inspector** | Property Analysis, PDF Generation | $150 |
-| **Palm Scanner AI** | Biometric logic, UI Animations | $150 |
-| **AI Supplement Ranker** | Health Analysis, Ranking Algo | $150 |
-| **AI Receipt Scanner** | OCR Technology, Finance Tracking | $142 |
-| **AI Crop Advisor** | Agriculture Tech, Disease Detection | $140 |
-
-#### 🎨 Professional UI Kits
-| Kit Name | Designed For |
+| 🏆 **Top Selling Apps** | 🤖 **AI-Powered Solutions** |
 | :--- | :--- |
-| **AI Hotel Booking UI Kit** | Travel & Hospitality Apps |
-| **Salon App UI Kit** | Beauty & Booking Systems |
-| **FitBody UI Kit** | Fitness & Gym Applications |
-| **HealthTrack UI Kit** | Medical & Doctor Booking |
+| **Complete Dairy Farm System** <br> *React Native + Node Backend* <br> ![New](https://img.shields.io/badge/STATUS-NEW_ARRIVAL-red?style=flat-square) <br> 🥛 Cattle, Milk, Sales, & Expense Mgmt | **PrescribePro AI** <br> *React.js + AI Logic* <br> ![Hot](https://img.shields.io/badge/AI-MEDICAL-blue?style=flat-square) <br> 💊 Smart Prescription Management |
+| **GourmetFood Platform** <br> *Multi-Restaurant Delivery* <br> ![Active](https://img.shields.io/badge/Type-DELIVERY-orange?style=flat-square) <br> 🍔 Full Stack Ordering System | **AI Vehicle Inspector** <br> *React Native Expo* <br> ![AI](https://img.shields.io/badge/Tech-COMPUTER_VISION-purple?style=flat-square) <br> 🚗 Auto-detect damages & report |
+| **Cleanup Services App** <br> *PHP Application* <br> ![Web](https://img.shields.io/badge/Stack-PHP_MYSQL-blueviolet?style=flat-square) <br> 🧹 On-demand service booking | **AI Home Inspector** <br> *React Native Expo* <br> ![AI](https://img.shields.io/badge/Tech-SMART_ANALYSIS-purple?style=flat-square) <br> 🏠 Property Auditing System |
+
+</div>
+
+<div align="center">
+<h3>📱 The AI Micro-App Collection (Expo)</h3>
+</div>
+
+| 🌿 Agri-Tech | 🏥 Health & Bio | 🧾 Utilities |
+| :---: | :---: | :---: |
+| **AI Crop Advisor**<br>Plant Disease Detection | **Palm Scanner AI**<br>Biometric Analysis App | **AI Receipt Scanner**<br>OCR Finance Tracker |
+| | **AI Supplement Ranker**<br>Health Product Analyze | **GuardLink Web**<br>Security Management |
+
+<div align="center">
+<h3>🎨 Premium UI Kits (React Native)</h3>
+</div>
+
+| **FitBody** (Fitness) | **HealthTrack** (Medical) | **Salon App** (Beauty) | **Hotel Booking** (Travel) |
+| :---: | :---: | :---: | :---: |
+| ![Fit](https://img.shields.io/badge/UI-MODERN-brightgreen) | ![Health](https://img.shields.io/badge/UI-CLEAN-blue) | ![Salon](https://img.shields.io/badge/UI-STYLISH-pink) | ![Hotel](https://img.shields.io/badge/UI-LUXURY-gold) |
 
 ---
 
-### 📊 GitHub Stats
+### 📈 **GitHub Activity Graph**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShakeelAhmad18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeelAhmad18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShakeelAhmad18&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShakeelAhmad18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeelAhmad18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160" />
 </div>
 
 ---
 
-### 🤝 Let's Collaborate
-I am open to freelance work, direct hiring, or collaboration on large-scale MERN/App projects.
-
-- **Direct Clients:** Need a custom version of my apps? Contact me.
-- **Support:** Purchased a code and need help? Email me below.
-
 <div align="center">
 
-[<img src="https://img.shields.io/badge/Twitter-follow-1DA1F2?style=for-the-badge&logo=twitter" />](https://x.com/ShakeelReh)
-[<img src="https://img.shields.io/badge/Website-Visit%20Portfolio-000000?style=for-the-badge&logo=vercel" />](https://shakeel-ahmad.vercel.app/)
+### 🚀 **Ready to launch your next project?**
+
+<a href="https://www.codester.com/CodeWala/">
+<img src="https://img.shields.io/badge/VIEW_MY_FULL_PORTFOLIO-FF6B6B?style=for-the-badge&logo=appveyor&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShakeelAhmad18&label=Profile%20Views&color=0e75b6&style=flat" alt="shakeelahmad18" />
+</p>
 
 </div>
