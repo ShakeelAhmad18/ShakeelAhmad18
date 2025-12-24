@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=CodeWala&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Shakeel%20Ahmad%20%7C%20Full%20Stack%20and%20AI%20Developer&descAlignY=51&descAlign=50" alt="CodeWala Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Shakeel%20Ahmad&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Mern%20and%20React%20Native%20developer&descAlignY=51&descAlign=50" alt="Shakeel Ahmad Banner" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=25c2a0&center=true&vCenter=true&width=600&lines=🚀+Building+Premium+React+Native+Apps;🤖+Integrating+Artificial+Intelligence;🛒+Top+Seller+on+Codester;💻+MERN+Stack+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=25c2a0&center=true&vCenter=true&width=600&lines=🚀+Building+Premium+React+Native+Apps;🤖+Integrating+Artificial+Intelligence;🛒+Seller+on+Codester;💻+MERN+Stack+Expert" alt="Typing SVG" />
   </a>
 
   <br />
