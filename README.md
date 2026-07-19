@@ -1,13 +1,17 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Shakeel%20Ahmad&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Mern%20and%20React%20Native%20developer&descAlignY=51&descAlign=50" alt="Shakeel Ahmad Banner" width="100%" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=25c2a0&center=true&vCenter=true&width=600&lines=🚀+Building+Premium+React+Native+Apps;🤖+Integrating+Artificial+Intelligence;🛒+Seller+on+Codester;💻+MERN+Stack+Expert" alt="Typing SVG" />
-  </a>
+  <h1 align="center">Hi there, I'm Shakeel Ahmad 👋</h1>
+  <h3 align="center">Full Stack MERN & React Native Developer | Agentic AI Engineer</h3>
+  
+  <p align="center">
+    <i>Designing <b>Scalable SaaS Platforms</b>, <b>Autonomous AI Workflows</b>, and <b>Premium Mobile Applications</b>.</i>
+  </p>
 
   <br />
 
+  <a href="https://codecanyon.net/user/shakeeldev/portfolio">
+    <img src="https://img.shields.io/badge/CodeCanyon-Portfolio-82B541?style=for-the-badge&logo=envato&logoColor=white" height="30" />
+  </a>
   <a href="https://www.codester.com/CodeWala/">
     <img src="https://img.shields.io/badge/Codester-Visit_Shop-orange?style=for-the-badge&logo=c&logoColor=white" height="30" />
   </a>
@@ -26,7 +30,7 @@
 
 ### ⚡ **The Developer Behind the Products**
 
-> *"I don't just write code; I build **assets**. My focus is on creating high-value, production-ready applications that solve real business problems using AI and Modern Web Technologies."*
+> *"I don't just write code; I engineer **scalable assets**. My focus is on delivering high-value, production-ready SaaS platforms, mobile applications, and autonomous agentic workflows that solve real business problems through AI integration and modern web architecture."*
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShakeelAhmad18&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophy" />
@@ -34,49 +38,67 @@
 
 ---
 
-### 🛠️ **Tech Stack & Arsenal**
+### 🛠️ **Technical Arsenal**
 
 <div align="center">
   <br />
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,redux,tailwind,bootstrap,html,css,js,ts,python,cpp,git,github,vscode,figma,photoshop&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,redux,tailwind,bootstrap,ts,js,python,cpp,git,github,vscode,figma,photoshop&perline=10" />
   <br />
   <br />
-  <img src="https://img.shields.io/badge/Focus-React_Native_Expo-blue?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-OpenAI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-SaaS_Development-green?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-MERN_Stack-25c2a0?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile-React_Native_Expo-blue?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-LangChain_&_LangGraph-092E20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-SaaS_Platforms-green?style=for-the-badge&logo=serverless&logoColor=white" />
 </div>
 
 ---
 
+### 🧠 **Agentic AI & Autonomous Workflows**
+*Designing multi-agent systems and LLM orchestration for complex decision-making and data analysis.*
+
+| Project | Domain | Key Features | Tech Stack |
+| :--- | :---: | :--- | :--- |
+| **AI Database Analyst & Reporting Agent** | 📊 Data AI | Autonomous state-machine workflow for intelligent database querying, deep data analysis, and automated dynamic report generation. | ![LangGraph](https://img.shields.io/badge/-LangGraph-25c2a0?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Autonomous Web Negotiator** *(MVP)* | 🤝 B2B AI | Autonomous negotiation agent utilizing state graphs to handle complex, multi-turn web interactions. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Groq](https://img.shields.io/badge/-Groq_API-F55036?style=flat-square) |
+
+---
+
+### 🚀 **Latest SaaS Platforms**
+*Enterprise-grade architecture featuring real-time modules, AI automation, and seamless cloud integration.*
+
+| Project | Domain | Key Features | Tech Stack |
+| :--- | :---: | :--- | :--- |
+| **[FreshCut AI](https://codecanyon.net/item/freshcut-aipowered-salon-booking-react-native-app/64135220)** <br> *Live on CodeCanyon* | ✂️ Beauty & <br> Wellness | AI-powered salon booking, smart scheduling, modern UI/UX | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![AI](https://img.shields.io/badge/-AI_Powered-412991?style=flat-square) |
+| **OneCare AI** <br> *Healthcare Ecosystem* | 🏥 MedTech | Digital medical records management, push notifications, automated endpoint analysis | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) |
+| **PadelX** <br> *Sports Venue Mgmt* | 🎾 Sports | Real-time court scheduling, inventory tracking, player ranking logic | ![MERN](https://img.shields.io/badge/-Full_Stack-25c2a0?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-FF6B6B?style=flat-square) |
+| **TableFlow** <br> *Restaurant SaaS* | 🍽️ Hospitality | Smart table management, streamlined order flow, dynamic routing | ![MERN](https://img.shields.io/badge/-Full_Stack-25c2a0?style=flat-square) ![SaaS](https://img.shields.io/badge/-SaaS-FF6B6B?style=flat-square) |
+| **LumiBaby** <br> *AI Tracker* | 👶 Family | Smart infant analytics, routine prediction, modern dashboard | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![AI](https://img.shields.io/badge/-AI_Powered-412991?style=flat-square) |
+| **PawSync** <br> *Pet Care Platform* | 🐾 Lifestyle | AI health analysis, activity tracking, multi-platform sync | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![AI](https://img.shields.io/badge/-AI_Powered-412991?style=flat-square) |
+
+---
+
 ### 💎 **Featured Premium Products**
-*Live on Codester | Secure Source Code | Documentation Included*
+*Production-ready marketplace assets with complete source code and documentation.*
 
 <div align="center">
 
-| 🏆 **Top Selling Apps** | 🤖 **AI-Powered Solutions** |
+| 🏆 **Top Selling Systems** | 🤖 **AI-Powered Solutions** |
 | :--- | :--- |
 | **Complete Dairy Farm System** <br> *React Native + Node Backend* <br> ![New](https://img.shields.io/badge/STATUS-NEW_ARRIVAL-red?style=flat-square) <br> 🥛 Cattle, Milk, Sales, & Expense Mgmt | **PrescribePro AI** <br> *React.js + AI Logic* <br> ![Hot](https://img.shields.io/badge/AI-MEDICAL-blue?style=flat-square) <br> 💊 Smart Prescription Management |
 | **GourmetFood Platform** <br> *Multi-Restaurant Delivery* <br> ![Active](https://img.shields.io/badge/Type-DELIVERY-orange?style=flat-square) <br> 🍔 Full Stack Ordering System | **AI Vehicle Inspector** <br> *React Native Expo* <br> ![AI](https://img.shields.io/badge/Tech-COMPUTER_VISION-purple?style=flat-square) <br> 🚗 Auto-detect damages & report |
-| **Cleanup Services App** <br> *PHP Application* <br> ![Web](https://img.shields.io/badge/Stack-PHP_MYSQL-blueviolet?style=flat-square) <br> 🧹 On-demand service booking | **AI Home Inspector** <br> *React Native Expo* <br> ![AI](https://img.shields.io/badge/Tech-SMART_ANALYSIS-purple?style=flat-square) <br> 🏠 Property Auditing System |
 
 </div>
+
+<br>
 
 <div align="center">
 <h3>📱 The AI Micro-App Collection (Expo)</h3>
 </div>
 
-| 🌿 Agri-Tech | 🏥 Health & Bio | 🧾 Utilities |
+| 🌿 Agri-Tech | 🏥 Health & Bio | 🏠 Property & Utils |
 | :---: | :---: | :---: |
-| **AI Crop Advisor**<br>Plant Disease Detection | **Palm Scanner AI**<br>Biometric Analysis App | **AI Receipt Scanner**<br>OCR Finance Tracker |
-| | **AI Supplement Ranker**<br>Health Product Analyze | **GuardLink Web**<br>Security Management |
-
-<div align="center">
-<h3>🎨 Premium UI Kits (React Native)</h3>
-</div>
-
-| **FitBody** (Fitness) | **HealthTrack** (Medical) | **Salon App** (Beauty) | **Hotel Booking** (Travel) |
-| :---: | :---: | :---: | :---: |
-| ![Fit](https://img.shields.io/badge/UI-MODERN-brightgreen) | ![Health](https://img.shields.io/badge/UI-CLEAN-blue) | ![Salon](https://img.shields.io/badge/UI-STYLISH-pink) | ![Hotel](https://img.shields.io/badge/UI-LUXURY-gold) |
+| **AI Crop Advisor**<br>Plant Disease Detection | **Palm Scanner AI**<br>Biometric Analysis | **AI Home Inspector**<br>Property Auditing |
+| | **AI Supplement Ranker**<br>Health Product Analysis | **AI Receipt Scanner**<br>OCR Finance Tracker |
 
 ---
 
@@ -99,8 +121,12 @@
 
 ### 🚀 **Ready to launch your next project?**
 
+<a href="https://codecanyon.net/user/shakeeldev/portfolio">
+<img src="https://img.shields.io/badge/VIEW_MY_CODECANYON_PORTFOLIO-82B541?style=for-the-badge&logo=envato&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://www.codester.com/CodeWala/">
-<img src="https://img.shields.io/badge/VIEW_MY_FULL_PORTFOLIO-FF6B6B?style=for-the-badge&logo=appveyor&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW_MY_CODESTER_PORTFOLIO-FF6B6B?style=for-the-badge&logo=appveyor&logoColor=white" />
 </a>
 
 <br />
